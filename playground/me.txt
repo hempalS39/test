@@ -1,5 +1,0 @@
-
-Name: Hempal Singh
-Skills: JavaScript, Node js , Express js , MongoDB
-Email: hempalsingh030@gmail.com
-
